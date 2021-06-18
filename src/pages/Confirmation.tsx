@@ -9,7 +9,7 @@ export function Confirmation(){
   const navigaton = useNavigation();
 
   function handleNavigation(){
-    navigaton.navigate('Confirmation')
+    navigaton.navigate('PlantSelect')
   }
 
   return(
